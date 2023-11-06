@@ -1,0 +1,7 @@
+./hello.txt
+./iamaridiculouslylongfilename.txt
+./longfile.txt
+./longlines.txt
+./new.txt
+./old.txt
+./out.txt
